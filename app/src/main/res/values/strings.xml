@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Final Unown</string>
+    <string name="title_activity_user_search">UserSearch</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_seller_search">SellerSearch</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_searched_product">SearchedProductActivity</string>
+    <string name="title_activity_buyer_profile">BuyerProfileActivity</string>
+    <string name="title_activity_seller_profile">SellerProfileActivity</string>
+    <string name="title_activity_order_req_nav">OrderReqNavActivity</string>
+    <string name="title_activity_pantry_nav">PantryNavActivity</string>
+    <string name="title_activity_cart_nav">CartNavActivity</string>
+</resources>
