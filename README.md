@@ -2,4 +2,4 @@ Our app, Farm Table, aims to make local, fresh food more easily accessible to co
 
 It is currently designed to be displayed on a large tablet screen, specifically the nexus 7 tablet. 
 
-![alt text](screenshots/buyerCart.JPG "buyerCart")
+![alt text](screenshots/buyerCart.JPG "buyerCart"){width=50%}
