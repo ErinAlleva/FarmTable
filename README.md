@@ -2,16 +2,26 @@ Our app, Farm Table, aims to make local, fresh food more easily accessible to co
 
 It is currently designed to be displayed on a large tablet screen, specifically the nexus 7 tablet. 
 
-<img src="screenshots/login.JPG" width="200" height="400">
+<img src="screenshots/login.JPG" width="230" height="400">
 
 Login page
 
-<img src="screenshots/buyerCart.JPG" width="200" height="400">
+<img src="screenshots/buyerCart.JPG" width="230" height="400">
 
 The cart for a user that is a buyer. 
 
 
-<img src="screenshots/buyerSearch.JPG" width="200" height="400">
+<img src="screenshots/buyerSearch.JPG" width="230" height="400">
 The opening page for a buyer. Here they can search for the produce they want and add it to their cart.
 
-![alt text](screenshots/buyerCart.JPG "buyerCart"){width=50%}
+<img src="screenshots/mypantry.JPG" width="230" height="400">
+
+The pantry for a user that is a seller. They can update this with what they currently have to sell
+
+<img src="screenshots/completeOrder.JPG" width="230" height="400">
+
+The order page for sellers. Here they can look at their current order requests and complete or remove them.
+
+<img src="screenshots/navBar.JPG" width="230" height="400">
+
+Navigation bar for the app, this one is for the buyers, for sellers they can navigate to their orders and their pantry instead of search and cart. 
